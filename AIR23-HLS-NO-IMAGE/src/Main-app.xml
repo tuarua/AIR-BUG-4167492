@@ -306,6 +306,7 @@
 			</manifest>
 			
 		]]></manifestAdditions>
+		<containsVideo>true</containsVideo>
     </android>
     <iPhone>
         <InfoAdditions><![CDATA[
